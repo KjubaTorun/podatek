@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/podatek/static/css/main.67863c0e.css",
+    "main.js": "/podatek/static/js/main.da66e2af.js",
+    "index.html": "/podatek/index.html",
+    "main.67863c0e.css.map": "/podatek/static/css/main.67863c0e.css.map",
+    "main.da66e2af.js.map": "/podatek/static/js/main.da66e2af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67863c0e.css",
+    "static/js/main.da66e2af.js"
+  ]
+}
